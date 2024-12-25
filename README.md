@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/aisahblackmarket/vip/main/rajibkomara.sh && chmod +x premi.sh && ./rajibkomara.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/aisahblackmarket/vip/main/rajibkomara.sh && chmod +x rajibkomara.sh && ./rajibkomara.sh
 </code></pre>
 
 ### LINK UPDATE 
